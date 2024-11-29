@@ -1,3 +1,5 @@
+//File format reference: https://learn.microsoft.com/en-us/windows/win32/debug/pe-format
+
 #include <windows.h>
 #include <stdio.h>
 #include <timezoneapi.h>
